@@ -30,7 +30,7 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
 
 ## 💼 Featured Projects
 
-### KidsTales
+### KidsTales 📚
 - **Description**: *A curated collection of classical stories for children to learn Spanish and English.*
 - **Role**: Lead Android Developer
 - **Tech Stack**: Java (initially), later rewritten in Kotlin with Jetpack Compose
@@ -40,7 +40,7 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
   - **Next Major Update**: Complete rewrite in **Kotlin** with **Jetpack Compose**, enhancing performance, user experience, and maintainability.
   - **Additional Improvements**: Integrated new design principles and optimized the app's layout and navigation for a modern Android experience.
 
-### Yachtty
+### Yachtty 🛥️
 - **Description**: *A Worldwide Yachting Services Hub connecting yacht crews with top local suppliers.*
 - **Role**: Full-Stack Developer (Solo)
 - **Tech Stack**: Kotlin, Jetpack Compose Multiplatform (KMM), Ktor, PostgreSQL, Firebase
@@ -58,7 +58,6 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
 - **Focus**: Leveraging advancements in **Kotlin**, **Jetpack Compose Multiplatform**, and modern API design to create innovative, high-performance applications.
 - **Status**: In active development, pushing the boundaries of cross-platform capabilities with cutting-edge features.
 
----
 
 ## 🔧 Technical Skills
 
