@@ -23,7 +23,7 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
 - **Cloud-Savvy** ☁️  
   With experience in **AWS**, **Digital Ocean**, and **Firebase**, I design and optimize applications for reliable cloud deployment, ensuring they are fully adapted for cloud environments.
 
-- **Adherence to Best Practices** 📏  
+- **Adherence to Best Practices** 📈  
   I prioritize industry best practices to enhance data integrity, performance, and maintainability. My approach ensures that applications are robust, efficient, and built for long-term scalability.
 
 ---
