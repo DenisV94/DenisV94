@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Denis!
 
-### 🚀 Full-Stack | Kotlin & Jetpack Compose Multiplatform | Mobile Developer 
+### 🚀 Senior Full-Stack | Kotlin & Jetpack Compose Multiplatform | Mobile Developer 
 
-Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over **5 years of experience** crafting engaging, high-performance applications. My specialty? **Kotlin** and **Jetpack Compose Multiplatform (KMM)** for creating powerful, cross-platform solutions. I’m here to build apps that people love and that scale effortlessly across Android and iOS.
+Welcome to my GitHub! I’m Denis—a **Senior Full Stack Developer** with over **6 years of experience** crafting engaging, high-performance applications. My specialty? **Kotlin** and **Jetpack Compose Multiplatform (KMM)** for creating powerful, cross-platform solutions. I’m here to build apps that people love and that scale effortlessly across Android and iOS.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
   Whether leading projects or managing the full development lifecycle—from design to deployment—I’m skilled in independently delivering robust, scalable applications. My experience spans every stage of development, ensuring high-quality, maintainable solutions from start to finish.
 
 - **Kotlin & Compose Multiplatform Specialist** 👨‍🚀  
-  Since the early days of **Compose Multiplatform**, I’ve been leveraging it to build seamless, cross-platform experiences for Android and iOS. My primary focus is delivering high-quality, multiplatform solutions that scale efficiently across both mobile platforms.
+  Since the early days of **Compose Multiplatform**, I’ve been leveraging it to build seamless, cross-platform experiences for Android and iOS. As a senior developer, my primary focus is delivering high-quality, multiplatform solutions that scale efficiently across both mobile platforms.
 
 - **Android XML Layout Design** 🎨  
   On the Android side, I have extensive experience in visual design using the traditional XML layout system. This background makes me adaptable across both classic and modern UI development, allowing me to work effectively with legacy codebases and new implementations alike.
