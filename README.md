@@ -60,6 +60,7 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
 - **Focus**: Leveraging advancements in **Kotlin**, **Jetpack Compose Multiplatform**, and modern API design to create innovative, high-performance applications.
 - **Status**: In active development, pushing the boundaries of cross-platform capabilities with cutting-edge features.
 
+---
 
 ## 🔧 Technical Skills
 
@@ -90,7 +91,6 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
 - **Continuous Learning & Tools**: Committed to mastering **Kotlin** and **Compose Multiplatform**, I leverage tools like Figma for design collaboration and Linux for development and server management, ensuring smooth workflows and quality delivery.
 
 ---
-
 
 ## 📈 Goals
 
