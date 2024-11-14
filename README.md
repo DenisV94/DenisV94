@@ -1,34 +1,44 @@
 # 👋 Hi, I'm Denis!
 
-### 🚀 Senior Mobile Developer | Kotlin & Jetpack Compose Multiplatform Specialist | Full-Stack Mobile Solutions
+### 🚀 Full-Stack | Kotlin & Jetpack Compose Multiplatform | Mobile Developer 
 
 Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over **5 years of experience** crafting engaging, high-performance applications. My specialty? **Kotlin** and **Jetpack Compose Multiplatform (KMM)** for creating powerful, cross-platform solutions. I’m here to build apps that people love and that scale effortlessly across Android and iOS.
 
 ---
 
-## 🌟 About Me
+## 🌟 Core Skills
 
-- **Pioneer in Kotlin & Compose Multiplatform** 🌐  
-  Since the early days of **Compose Multiplatform**, I’ve been leveraging it to build seamless, cross-platform experiences for Android and iOS. From its alpha release to now, I’ve honed a deep expertise in deploying it effectively for modern mobile applications.
+- **Full-Stack Developer** 🚀  
+  Whether leading projects or managing the full development lifecycle—from design to deployment—I’m skilled in independently delivering robust, scalable applications. My experience spans every stage of development, ensuring high-quality, maintainable solutions from start to finish.
 
-- **Full-Stack Developer with Solo & Team Experience** 👥  
-  Whether it’s leading projects or handling the full app lifecycle—design to deployment—I’m skilled in both solo development and team leadership to deliver robust, scalable solutions.
+- **Kotlin & Compose Multiplatform Specialist** 👨‍🚀  
+  Since the early days of **Compose Multiplatform**, I’ve been leveraging it to build seamless, cross-platform experiences for Android and iOS. My primary focus is delivering high-quality, multiplatform solutions that scale efficiently across both mobile platforms.
 
-- **Security-Minded, Cloud-Savvy** ☁️  
-  I use **AWS** and **Digital Ocean** to ensure security and efficiency in the cloud, keeping applications safe and optimized.
+- **Android XML Layout Design** 🎨  
+  On the Android side, I have extensive experience in visual design using the traditional XML layout system. This background makes me adaptable across both classic and modern UI development, allowing me to work effectively with legacy codebases and new implementations alike.
 
-- **Dedicated to Growth** 🎓  
-  Currently enhancing my testing skills, which will further elevate the reliability of the solutions I provide.
+- **API Development Expertise** 🔗  
+  Beyond mobile development, I have hands-on experience building complete APIs from scratch, covering essential components like database connectivity, external service integrations (e.g., Mapbox, SendGrid/Postmark, or S3), and delivering content for multiple frontends (such as mobile apps, admin dashboards, etc.). My API solutions are designed to be secure, efficient, and fully integrated with necessary cloud services.
+
+- **Cloud-Savvy** ☁️  
+  With experience in **AWS**, **Digital Ocean**, and **Firebase**, I design and optimize applications for reliable cloud deployment, ensuring they are fully adapted for cloud environments.
+
+- **Adherence to Best Practices** 📏  
+  I prioritize industry best practices to enhance data integrity, performance, and maintainability. My approach ensures that applications are robust, efficient, and built for long-term scalability.
 
 ---
 
 ## 💼 Featured Projects
 
 ### KidsTales
-- **Description**: *The best collection of classical stories for children to learn Spanish and English.*
+- **Description**: *A curated collection of classical stories for children to learn Spanish and English.*
 - **Role**: Lead Android Developer
-- **Tech Stack**: Java (initially), Android
-- **Outcome**: Successfully deployed and widely used, it was an inspiring experience that deepened my passion for creating impactful apps.
+- **Tech Stack**: Java (initially), later rewritten in Kotlin with Jetpack Compose
+- **Impact**: Successfully deployed and widely used, though the project has since been closed by the owner.
+- **Details**:
+  - **Initial Version**: Developed in Java, providing foundational Android experience.
+  - **Next Major Update**: Complete rewrite in **Kotlin** with **Jetpack Compose**, enhancing performance, user experience, and maintainability.
+  - **Additional Improvements**: Integrated new design principles and optimized the app's layout and navigation for a modern Android experience.
 
 ### Yachtty
 - **Description**: *A Worldwide Yachting Services Hub connecting yacht crews with top local suppliers.*
@@ -43,26 +53,50 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
     - Database structure with PostgreSQL and Firebase integrations
     - Cross-platform front-end in **Jetpack Compose Multiplatform** for both Android and iOS
 
+### Top-Secret Personal Projects 🚀
+- **Description**: *Currently developing three personal projects, each utilizing the latest technologies and best practices.*
+- **Focus**: Leveraging advancements in **Kotlin**, **Jetpack Compose Multiplatform**, and modern API design to create innovative, high-performance applications.
+- **Status**: In active development, pushing the boundaries of cross-platform capabilities with cutting-edge features.
+
 ---
 
 ## 🔧 Technical Skills
 
-- **Languages**: Kotlin (primary), Java (deprecated for my projects in favor of Kotlin), Swift (for KMM native modules), Python (basic)
+- **Languages**: Kotlin (primary), Java, Swift (for KMM native modules), Python (basic)
 - **Architecture & Patterns**: MVVM, MVP, SOLID principles, Clean Code practices
 - **Database**: PostgreSQL, Firebase, NoSQL
-- **Frameworks & Tools**: Jetpack Compose, Compose Multiplatform, Ktor, Gradle, Cocoapods (iOS)
-- **Version Control**: GitHub (current), GitLab (previous)
-- **Cloud Services**: AWS (basic), Digital Ocean
+- **Frameworks & Tools**: Jetpack Compose, Compose Multiplatform, Ktor, Gradle, Cocoapods (iOS), IntelliJ Suite
+- **UI/UX Design**: Figma for design collaboration and prototyping
+- **Version Control**: GitHub, GitLab
+- **Cloud Services**: AWS, Digital Ocean, Firebase
+- **Payment Integration**: Stripe
+- **AI Integration**: Experience integrating AI capabilities within APIs to enhance application functionality
+- **Operating Systems**: Proficient with Linux for development and server management
+- **UI Design (Android)**: Proficient in both Jetpack Compose and XML layout design, adaptable to legacy and modern UI approaches
 - **Deployment**: Experience deploying to Google Play Store and Apple App Store
+- **Best Practices**: Adherence to industry standards for data integrity, performance, security, and maintainability across projects
 
 ---
 
 ## 🛠 Approach to Development
 
-- **Code Quality**: I prioritize clean, readable, and reusable code, guided by **SOLID principles** and MVVM and MVP architectures to ensure structured, maintainable solutions.
-- **Security Practices**: While not an expert, I implement security best practices to safeguard data and user information.
-- **Testing**: Currently expanding my knowledge in testing to enhance the reliability and robustness of my applications.
-- **Continuous Learning**: My goal is to master **Kotlin** and **Compose Multiplatform** and to stay open to tools and practices that improve workflow and quality.
+- **Code Quality**: I prioritize clean, readable, and reusable code, guided by **SOLID principles** and structured architectures like MVVM and MVP for scalable, maintainable applications.
+
+- **Security & Reliability**: I apply security best practices and continuously expand my testing knowledge to deliver robust applications, incorporating secure data handling and integrations with payment gateways like Stripe.
+
+- **AI Integration**: I enhance functionality by incorporating AI within APIs, using machine learning tools where appropriate to improve user experiences.
+
+- **Continuous Learning & Tools**: Committed to mastering **Kotlin** and **Compose Multiplatform**, I leverage tools like Figma for design collaboration and Linux for development and server management, ensuring smooth workflows and quality delivery.
+
+---
+
+## 🌱 Personal Interests
+
+When I’m not coding, I enjoy:
+- **Gaming**: A lifelong gamer, always on the lookout for new challenges and immersive experiences.
+- **Anime and Series**: I’m a big fan of anime and enjoy diving into captivating series—always up for recommendations and discussions!
+- **Home Lab Projects**: I have a **Proxmox home server** setup and run various projects with **Home Assistant** (my home is smart and a bit "crazy"!), along with networking and automation experiments to push the limits of home tech.
+- **Personal Tech Experiments**: I love exploring new technologies and setting up complex home systems, from servers to custom network configurations, and continuously learning through hands-on experimentation.
 
 ---
 
@@ -83,5 +117,3 @@ Welcome to my GitHub! I’m Denis—a **Full Stack Mobile Developer** with over 
 
 - **LinkedIn**: [Denis Vinogradov](https://www.linkedin.com/in/denis-vinogradov-0ba928170/)
 - **Email**: [denis94.developer@gmail.com](mailto:denis94.developer@gmail.com)
-
-I’m open to collaboration, learning opportunities, and interesting project discussions. Feel free to explore my repositories and reach out if you’d like to connect or work together! 😊
